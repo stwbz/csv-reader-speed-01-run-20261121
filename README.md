@@ -1,7 +1,12 @@
 # Fast CSV reader — make.fun entry
 
+[![make.fun · csv-reader-speed-01-run-20261121](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/stwbz/csv-reader-speed-01-run-20261121/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/stwbz/csv-reader-speed-01-run-20261121/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+
 Faster drop-in for csv-reader 1.0.0, for the make.fun bounty
 "Read broken CSV files faster, 21 November 2026".
+Bounty: https://make.fun/bounty/csv-reader-speed-01-run-20261121
 
 `solve.js` is an ES module whose `run(input)` returns
 `{columns, rows, errors}` exactly as csv-reader 1.0.0 does,
